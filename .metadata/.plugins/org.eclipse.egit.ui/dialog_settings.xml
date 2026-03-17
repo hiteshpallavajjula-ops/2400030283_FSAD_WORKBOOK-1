@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="hitesh pvm &lt;2400030283@kluniversity.in&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="hitesh pvm &lt;2400030283@kluniversity.in&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="D:\fsads3 (1)\fsads3\.git">
+			<item value="false"/>
+			<item value="hitesh pvm &lt;2400030283@kluniversity.in&gt;"/>
+			<item value="fsads3&#x0D;&#x0A;"/>
+			<item value="hitesh pvm &lt;2400030283@kluniversity.in&gt;"/>
+			<item value="fe274f32899815b67ed116fef78ec408ad9d9b0e"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>
